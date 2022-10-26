@@ -1,3 +1,4 @@
+buying price,maintenance cost,number of doors,number of persons,lug_boot,safety,decision
 vhigh,vhigh,2,2,small,low,unacc
 vhigh,vhigh,2,2,small,med,unacc
 vhigh,vhigh,2,2,small,high,unacc
